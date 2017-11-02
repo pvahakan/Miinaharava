@@ -13,6 +13,7 @@ public class Miinaharava {
         Kayttoliittyma kl = new Kayttoliittyma();
         kl.tulostaValikko();
         kl.kysyValinta();
+        kl.tarkistaValinta();
         
         /*
         Kentta kentta = new Kentta(3);
